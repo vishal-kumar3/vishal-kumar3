@@ -24,14 +24,6 @@ Hey there, I'm Vishal! :] I'm a full stack developer with a focus on building sc
 
 - **Devcord** - A platform for developers with all features from project management to deployment.
 
-## 📊 GitHub Stats
-
-![Vishal's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vishal-kumar3&show_icons=true&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vishal-kumar3&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=vishal-kumar3&theme=tokyonight)](https://git.io/streak-stats)
-
 ## 🔗 Connect With Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://vishalkumar.wiki/)
@@ -39,17 +31,6 @@ Hey there, I'm Vishal! :] I'm a full stack developer with a focus on building sc
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/VishalKumar10/)
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://vishal-kumar3.hashnode.dev/)
 [![Chess.com](https://img.shields.io/badge/Chess.com-005FAB?style=for-the-badge&logo=lichess&logoColor=white)](https://www.chess.com/member/vishal_kumar3)
-
-## 📈 Contribution Graph
-
-![Vishal's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vishal-kumar3&theme=tokyo-night)
-
-<!-- Alternative contribution graph if the above doesn't work -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vishal-kumar3/vishal-kumar3/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vishal-kumar3/vishal-kumar3/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vishal-kumar3/vishal-kumar3/output/github-contribution-grid-snake.svg">
-</picture>
 
 ## ⚡ Fun Fact
 
