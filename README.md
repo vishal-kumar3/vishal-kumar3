@@ -3,8 +3,8 @@
 </p>
 
 # 👋 Hey, I’m Vishal Kumar  
-### Full-Stack Sorcerer | Backend Beast
 ![](https://komarev.com/ghpvc/?username=vishal-kumar3)
+### Full-Stack Sorcerer | Backend Beast
 Hey, I’m Vishal—a full-stack dev who crafts scalable, slick web apps that don’t just work, they *wow*. I live for untangling complex problems and shipping code that’s fast, clean, and user-obsessed. When I’m not slinging JavaScript or Go, I’m deep in the blockchain rabbit hole or losing my mind over Go’s elegance. Buckle up—let’s build something epic.
 
 ---
