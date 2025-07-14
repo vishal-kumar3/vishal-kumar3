@@ -1,5 +1,6 @@
 <p align="center">
   <img src="https://i.imgur.com/psKJGaA.jpeg" width="200" alt="So your now stalking me on github!"/>
+  ![](https://komarev.com/ghpvc/?username=vishal-kumar3)
 </p>
 
 # 👋 Hey, I’m Vishal Kumar  
